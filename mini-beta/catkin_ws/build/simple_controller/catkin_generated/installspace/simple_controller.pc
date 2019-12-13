@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: simple_controller
+Description: Description of simple_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/install/lib 
+Requires: 

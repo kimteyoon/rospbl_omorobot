@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: rosauth
+Description: Description of rosauth
+Version: 1.0.1
+Cflags: -I/home/pi/catkin_ws/devel/include
+Libs: -L/home/pi/catkin_ws/devel/lib 
+Requires: roscpp message_runtime

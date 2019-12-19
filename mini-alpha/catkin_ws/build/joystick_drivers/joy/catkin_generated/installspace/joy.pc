@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: joy
+Description: Description of joy
+Version: 1.13.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/install/lib 
+Requires: roscpp diagnostic_updater sensor_msgs
